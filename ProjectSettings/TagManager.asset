@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullet
+  - Penemy1
+  - Penemy2
+  - Penemy3
+  - lifeimg1
+  - Fplayer
+  - FGlobal
+  - lifeimg2
+  - lifeimg3
+  - bunker
+  - bunkerglobal
+  - smallexplosion
+  - Enemy
+  - alien1
+  - alien2
+  - alien3
+  - playerengine
+  - UFO
+  - playerscore
+  - plane
+  - boss
+  - enemybullet2
+  - fireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
